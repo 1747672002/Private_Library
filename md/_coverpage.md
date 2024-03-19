@@ -11,8 +11,5 @@
 - 无需生成 html 文件
 - 众多主题
 
-
-[开始使用 Let Go](/README.md)
-
 <a href="https://github.com/1747672002/nav">Github</a>
 <a href="#README">Get Started</a>
