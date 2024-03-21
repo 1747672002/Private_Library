@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [notes](README.md)
+* [Page](page.md)
