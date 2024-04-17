@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [读书笔记](README.md)
