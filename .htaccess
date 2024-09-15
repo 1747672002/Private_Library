@@ -1,6 +1,0 @@
-<Directory "/var/www/protected">
-    AuthType Basic
-    AuthName "Protected Area"
-    AuthUserFile /vp/.htpasswd
-    Require valid-user
-</Directory>
